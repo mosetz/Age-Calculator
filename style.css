@@ -35,7 +35,7 @@ body {
     border-radius: 10px;
     border: 0;
     text-align: center;
-    
+
 }
 
 #submit {
@@ -61,7 +61,7 @@ body {
 #result {
     margin-top: 10px;
     font-size: 20px;
-    color: red;
+    color: #fff;
     display: block;
     width: 100%;
     text-align: center;
